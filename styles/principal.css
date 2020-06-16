@@ -1,0 +1,30 @@
+:root{
+    --color-bottom:#dc3545!important;
+    --border-color:#dc3546be!important;  
+  }
+  
+  *{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  img{
+    width: 80px;
+    height: auto;
+  }
+  
+  
+  ul, li{
+    list-style: none;
+  }
+  
+  body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+    background: url('../assetsPoke/img/pikachu.png') no-repeat fixed; 
+    background-position: 35vw bottom;
+  }
+  
+  h1,h2,h3,h4,h5,h6{  
+    font-family: 'Ubuntu', sans-serif;
+  }
